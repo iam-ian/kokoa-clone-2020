@@ -1,4 +1,4 @@
 # Kokoa Clone 2020
 
-KoKoa Clone\n
+KoKoa Clone
 Study HTML & CSS
